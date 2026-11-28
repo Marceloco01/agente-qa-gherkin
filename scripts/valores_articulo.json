@@ -1,0 +1,964 @@
+{
+ "descripcion": "Cifras publicadas en el artículo (Tablas 4 a 7 y texto de Resultados). analisis_estadistico.py --verificar compara el cálculo contra cada una, redondeando a los decimales publicados.",
+ "fuente": "Articulo_Frontiers_Marcelo.docx, versión del 25/11/2026",
+ "valores": [
+  {
+   "ruta": "principal.ejecuciones.pre.ciclos",
+   "valor": 60,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.numerador",
+   "valor": 392,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.denominador",
+   "valor": 465,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.indice",
+   "valor": 84.3,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.media",
+   "valor": 83.99,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.de",
+   "valor": 31.99,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.mediana",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.q1",
+   "valor": 88.19,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.q3",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.ciclos_al_100",
+   "valor": 41,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.ejecuciones.pre.pct_ciclos_al_100",
+   "valor": 68.3,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.ejecuciones.post.ciclos",
+   "valor": 60,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.ejecuciones.post.numerador",
+   "valor": 604,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.ejecuciones.post.denominador",
+   "valor": 605,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.ejecuciones.post.indice",
+   "valor": 99.83,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.post.media",
+   "valor": 99.83,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.post.de",
+   "valor": 1.29,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.post.mediana",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.post.q1",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.post.q3",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.post.ciclos_al_100",
+   "valor": 59,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.ejecuciones.post.pct_ciclos_al_100",
+   "valor": 98.3,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.cobertura.pre.ciclos",
+   "valor": 60,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.cobertura.pre.numerador",
+   "valor": 201,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.cobertura.pre.denominador",
+   "valor": 263,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.cobertura.pre.indice",
+   "valor": 76.43,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.pre.media",
+   "valor": 79.14,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.pre.de",
+   "valor": 28.28,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.pre.mediana",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.pre.q1",
+   "valor": 66.67,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.pre.q3",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.pre.ciclos_al_100",
+   "valor": 31,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.cobertura.pre.pct_ciclos_al_100",
+   "valor": 51.7,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.cobertura.post.ciclos",
+   "valor": 60,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.cobertura.post.numerador",
+   "valor": 258,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.cobertura.post.denominador",
+   "valor": 272,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.cobertura.post.indice",
+   "valor": 94.85,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.post.media",
+   "valor": 95.53,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.post.de",
+   "valor": 11.6,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.post.mediana",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.post.q1",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.post.q3",
+   "valor": 100,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.post.ciclos_al_100",
+   "valor": 51,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.cobertura.post.pct_ciclos_al_100",
+   "valor": 85.0,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.ejecuciones.ciclos_al_100.diferencia_pp",
+   "valor": 30.0,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.ejecuciones.ciclos_al_100.ic95_inf_pp",
+   "valor": 17.4,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.ejecuciones.ciclos_al_100.ic95_sup_pp",
+   "valor": 42.6,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.ejecuciones.ciclos_al_100.p_fisher",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "principal.cobertura.ciclos_al_100.diferencia_pp",
+   "valor": 33.3,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.cobertura.ciclos_al_100.ic95_inf_pp",
+   "valor": 16.9,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.cobertura.ciclos_al_100.ic95_sup_pp",
+   "valor": 47.5,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.cobertura.ciclos_al_100.p_fisher",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "principal.ejecuciones.mann_whitney.rango_promedio_1",
+   "valor": 51.37,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.mann_whitney.rango_promedio_2",
+   "valor": 69.63,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.mann_whitney.u",
+   "valor": 1252.0,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.ejecuciones.mann_whitney.z",
+   "valor": -4.43,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.ejecuciones.mann_whitney.p_articulo",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "principal.ejecuciones.mann_whitney.r",
+   "valor": 0.4,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.mann_whitney.rango_promedio_1",
+   "valor": 50.02,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.mann_whitney.rango_promedio_2",
+   "valor": 70.98,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.mann_whitney.u",
+   "valor": 1171.0,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.cobertura.mann_whitney.z",
+   "valor": -4.0,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.cobertura.mann_whitney.p_articulo",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "principal.cobertura.mann_whitney.r",
+   "valor": 0.37,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.estado_defectos.mann_whitney.rango_promedio_1",
+   "valor": 16.25,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.estado_defectos.mann_whitney.rango_promedio_2",
+   "valor": 15.39,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.estado_defectos.mann_whitney.u",
+   "valor": 93.5,
+   "decimales": 1
+  },
+  {
+   "ruta": "principal.estado_defectos.mann_whitney.z",
+   "valor": -0.27,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.estado_defectos.mann_whitney.p_articulo",
+   "valor": 0.786,
+   "decimales": 3
+  },
+  {
+   "ruta": "principal.estado_defectos.mann_whitney.r",
+   "valor": 0.05,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.defectos_detectados.mann_whitney.rango_promedio_1",
+   "valor": 66.73,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.defectos_detectados.mann_whitney.rango_promedio_2",
+   "valor": 54.27,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.defectos_detectados.mann_whitney.u",
+   "valor": 1426.0,
+   "decimales": 1
+  },
+  {
+   "ruta": "variables_apoyo.defectos_detectados.mann_whitney.z",
+   "valor": -2.56,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.defectos_detectados.mann_whitney.p_articulo",
+   "valor": 0.011,
+   "decimales": 3
+  },
+  {
+   "ruta": "variables_apoyo.defectos_detectados.mann_whitney.r",
+   "valor": 0.23,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.situaciones_identificadas.mann_whitney.rango_promedio_1",
+   "valor": 59.62,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.situaciones_identificadas.mann_whitney.rango_promedio_2",
+   "valor": 61.38,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.situaciones_identificadas.mann_whitney.u",
+   "valor": 1747.0,
+   "decimales": 1
+  },
+  {
+   "ruta": "variables_apoyo.situaciones_identificadas.mann_whitney.z",
+   "valor": -0.28,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.situaciones_identificadas.mann_whitney.p_articulo",
+   "valor": 0.778,
+   "decimales": 3
+  },
+  {
+   "ruta": "variables_apoyo.situaciones_identificadas.mann_whitney.r",
+   "valor": 0.03,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.casos_especificados.mann_whitney.rango_promedio_1",
+   "valor": 47.45,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.casos_especificados.mann_whitney.rango_promedio_2",
+   "valor": 73.55,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.casos_especificados.mann_whitney.u",
+   "valor": 1017.0,
+   "decimales": 1
+  },
+  {
+   "ruta": "variables_apoyo.casos_especificados.mann_whitney.z",
+   "valor": -4.12,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.casos_especificados.mann_whitney.p_articulo",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "variables_apoyo.casos_especificados.mann_whitney.r",
+   "valor": 0.38,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.estado_defectos.pre.ciclos_con_indice",
+   "valor": 22,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.estado_defectos.post.ciclos_con_indice",
+   "valor": 9,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.estado_defectos.pre.numerador",
+   "valor": 43,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.estado_defectos.pre.denominador",
+   "valor": 55,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.estado_defectos.post.numerador",
+   "valor": 16,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.estado_defectos.post.denominador",
+   "valor": 20,
+   "decimales": 0
+  },
+  {
+   "ruta": "principal.estado_defectos.pre.indice",
+   "valor": 78.18,
+   "decimales": 2
+  },
+  {
+   "ruta": "principal.estado_defectos.post.indice",
+   "valor": 80.0,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.defectos_detectados.media_pre",
+   "valor": 0.92,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.defectos_detectados.media_post",
+   "valor": 0.33,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.situaciones_identificadas.media_pre",
+   "valor": 4.38,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.situaciones_identificadas.media_post",
+   "valor": 4.53,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.casos_especificados.media_pre",
+   "valor": 7.75,
+   "decimales": 2
+  },
+  {
+   "ruta": "variables_apoyo.casos_especificados.media_post",
+   "valor": 10.08,
+   "decimales": 2
+  },
+  {
+   "ruta": "severidad.0.detectados_pre",
+   "valor": 8,
+   "decimales": 0,
+   "nota": "Bajo"
+  },
+  {
+   "ruta": "severidad.0.corregidos_pre",
+   "valor": 8,
+   "decimales": 0,
+   "nota": "Bajo"
+  },
+  {
+   "ruta": "severidad.0.detectados_post",
+   "valor": 0,
+   "decimales": 0,
+   "nota": "Bajo"
+  },
+  {
+   "ruta": "severidad.0.corregidos_post",
+   "valor": 0,
+   "decimales": 0,
+   "nota": "Bajo"
+  },
+  {
+   "ruta": "severidad.1.detectados_pre",
+   "valor": 26,
+   "decimales": 0,
+   "nota": "Medio"
+  },
+  {
+   "ruta": "severidad.1.corregidos_pre",
+   "valor": 18,
+   "decimales": 0,
+   "nota": "Medio"
+  },
+  {
+   "ruta": "severidad.1.detectados_post",
+   "valor": 4,
+   "decimales": 0,
+   "nota": "Medio"
+  },
+  {
+   "ruta": "severidad.1.corregidos_post",
+   "valor": 3,
+   "decimales": 0,
+   "nota": "Medio"
+  },
+  {
+   "ruta": "severidad.2.detectados_pre",
+   "valor": 5,
+   "decimales": 0,
+   "nota": "Alto"
+  },
+  {
+   "ruta": "severidad.2.corregidos_pre",
+   "valor": 3,
+   "decimales": 0,
+   "nota": "Alto"
+  },
+  {
+   "ruta": "severidad.2.detectados_post",
+   "valor": 2,
+   "decimales": 0,
+   "nota": "Alto"
+  },
+  {
+   "ruta": "severidad.2.corregidos_post",
+   "valor": 1,
+   "decimales": 0,
+   "nota": "Alto"
+  },
+  {
+   "ruta": "severidad.3.detectados_pre",
+   "valor": 16,
+   "decimales": 0,
+   "nota": "Crítico"
+  },
+  {
+   "ruta": "severidad.3.corregidos_pre",
+   "valor": 14,
+   "decimales": 0,
+   "nota": "Crítico"
+  },
+  {
+   "ruta": "severidad.3.detectados_post",
+   "valor": 14,
+   "decimales": 0,
+   "nota": "Crítico"
+  },
+  {
+   "ruta": "severidad.3.corregidos_post",
+   "valor": 12,
+   "decimales": 0,
+   "nota": "Crítico"
+  },
+  {
+   "ruta": "severidad.4.detectados_pre",
+   "valor": 55,
+   "decimales": 0,
+   "nota": "Total"
+  },
+  {
+   "ruta": "severidad.4.corregidos_pre",
+   "valor": 43,
+   "decimales": 0,
+   "nota": "Total"
+  },
+  {
+   "ruta": "severidad.4.detectados_post",
+   "valor": 20,
+   "decimales": 0,
+   "nota": "Total"
+  },
+  {
+   "ruta": "severidad.4.corregidos_post",
+   "valor": 16,
+   "decimales": 0,
+   "nota": "Total"
+  },
+  {
+   "ruta": "sensibilidad.A.ciclos_pre",
+   "valor": 53,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.ejecuciones.pre.numerador",
+   "valor": 388,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.ejecuciones.pre.denominador",
+   "valor": 417,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.ejecuciones.pre.indice",
+   "valor": 93.05,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.A.ejecuciones.mann_whitney.p_articulo",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "sensibilidad.A.ejecuciones.mann_whitney.r",
+   "valor": 0.33,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.A.ejecuciones.ciclos_al_100.pre",
+   "valor": 41,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.ejecuciones.ciclos_al_100.post",
+   "valor": 59,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.ejecuciones.ciclos_al_100.p_fisher",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "sensibilidad.A.ciclos_pre",
+   "valor": 53,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.cobertura.pre.numerador",
+   "valor": 184,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.cobertura.pre.denominador",
+   "valor": 233,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.cobertura.pre.indice",
+   "valor": 78.97,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.A.cobertura.mann_whitney.p_articulo",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "sensibilidad.A.cobertura.mann_whitney.r",
+   "valor": 0.33,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.A.cobertura.ciclos_al_100.pre",
+   "valor": 29,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.cobertura.ciclos_al_100.post",
+   "valor": 51,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.cobertura.ciclos_al_100.p_fisher",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "sensibilidad.B.ciclos_pre",
+   "valor": 49,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.ejecuciones.pre.numerador",
+   "valor": 381,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.ejecuciones.pre.denominador",
+   "valor": 404,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.ejecuciones.pre.indice",
+   "valor": 94.31,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.B.ejecuciones.mann_whitney.p_articulo",
+   "valor": 0.005,
+   "decimales": 3
+  },
+  {
+   "ruta": "sensibilidad.B.ejecuciones.mann_whitney.r",
+   "valor": 0.27,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.B.ejecuciones.ciclos_al_100.pre",
+   "valor": 41,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.ejecuciones.ciclos_al_100.post",
+   "valor": 59,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.ejecuciones.ciclos_al_100.p_fisher",
+   "valor": 0.01,
+   "decimales": 3
+  },
+  {
+   "ruta": "sensibilidad.B.ciclos_pre",
+   "valor": 49,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.cobertura.pre.numerador",
+   "valor": 166,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.cobertura.pre.denominador",
+   "valor": 210,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.cobertura.pre.indice",
+   "valor": 79.05,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.B.cobertura.mann_whitney.p_articulo",
+   "valor": 0.001,
+   "decimales": 3
+  },
+  {
+   "ruta": "sensibilidad.B.cobertura.mann_whitney.r",
+   "valor": 0.31,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.B.cobertura.ciclos_al_100.pre",
+   "valor": 28,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.cobertura.ciclos_al_100.post",
+   "valor": 51,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.cobertura.ciclos_al_100.p_fisher",
+   "valor": 0.002,
+   "decimales": 3
+  },
+  {
+   "ruta": "sensibilidad.C.ciclos_post",
+   "valor": 46,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.C.ejecuciones.post.indice",
+   "valor": 99.78,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.C.ejecuciones.mann_whitney.p_articulo",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "sensibilidad.C.ejecuciones.mann_whitney.r",
+   "valor": 0.38,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.C.ejecuciones.ciclos_al_100.post",
+   "valor": 45,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.C.ejecuciones.ciclos_al_100.p_fisher",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "sensibilidad.C.cobertura.post.indice",
+   "valor": 94.69,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.C.cobertura.mann_whitney.p_articulo",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "sensibilidad.C.cobertura.mann_whitney.r",
+   "valor": 0.35,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.C.cobertura.ciclos_al_100.post",
+   "valor": 39,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.C.cobertura.ciclos_al_100.p_fisher",
+   "menor_que": 0.001
+  },
+  {
+   "ruta": "sensibilidad.A.estado_defectos.pre.ciclos_con_indice",
+   "valor": 20,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.estado_defectos.pre.numerador",
+   "valor": 43,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.estado_defectos.pre.denominador",
+   "valor": 53,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.A.estado_defectos.pre.indice",
+   "valor": 81.13,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.A.estado_defectos.mann_whitney.p_articulo",
+   "valor": 0.531,
+   "decimales": 3
+  },
+  {
+   "ruta": "sensibilidad.A.estado_defectos.mann_whitney.r",
+   "valor": 0.12,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.B.estado_defectos.pre.ciclos_con_indice",
+   "valor": 17,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.estado_defectos.pre.numerador",
+   "valor": 24,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.estado_defectos.pre.denominador",
+   "valor": 31,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.B.estado_defectos.pre.indice",
+   "valor": 77.42,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.B.estado_defectos.mann_whitney.p_articulo",
+   "valor": 0.618,
+   "decimales": 3
+  },
+  {
+   "ruta": "sensibilidad.B.estado_defectos.mann_whitney.r",
+   "valor": 0.1,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.C.estado_defectos.pre.ciclos_con_indice",
+   "valor": 22,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.C.estado_defectos.pre.numerador",
+   "valor": 43,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.C.estado_defectos.pre.denominador",
+   "valor": 55,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.C.estado_defectos.pre.indice",
+   "valor": 78.18,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.C.estado_defectos.mann_whitney.p_articulo",
+   "valor": 0.786,
+   "decimales": 3
+  },
+  {
+   "ruta": "sensibilidad.C.estado_defectos.mann_whitney.r",
+   "valor": 0.05,
+   "decimales": 2
+  },
+  {
+   "ruta": "sensibilidad.C.estado_defectos.post.numerador",
+   "valor": 16,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.C.estado_defectos.post.denominador",
+   "valor": 20,
+   "decimales": 0
+  },
+  {
+   "ruta": "sensibilidad.C.excluidos_con_defectos",
+   "valor": 0,
+   "decimales": 0,
+   "nota": "la fila 'Estado de defectos, análisis C' es idéntica a la principal"
+  }
+ ]
+}

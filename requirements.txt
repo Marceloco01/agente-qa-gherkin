@@ -1,0 +1,13 @@
+streamlit
+httpx
+python-dotenv
+
+ollama
+
+sqlalchemy
+alembic
+psycopg[binary]
+pgvector
+
+pandas
+openpyxl
